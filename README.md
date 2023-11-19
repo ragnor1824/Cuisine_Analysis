@@ -1,4 +1,4 @@
-# Project_1
+# Cuisine Analysis
 
 What are the macronutrient profiles of American, Chinese, and Mexican cuisines?
 
